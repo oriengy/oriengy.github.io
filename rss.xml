@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>oriengy&#39;s blog</title>
+        <link>https://oriengy.github.io/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.66.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>oriengy@gmail.com (oriengy)</managingEditor>
+        
+        
+            <webMaster>oriengy@gmail.com (oriengy)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Sun, 08 Mar 2020 10:54:16 +0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss+xml" href="https://oriengy.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Hello</title>
+                <link>https://oriengy.github.io/posts/hello/</link>
+                <guid isPermaLink="true">https://oriengy.github.io/posts/hello/</guid>
+                <pubDate>Sat, 07 Mar 2020 17:02:26 +0800</pubDate>
+                
+                    <author>oriengy@gmail.com (oriengy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<h1 id="hi-guys-this-is-my-very-first-post">Hi guys, this is my very first post.</h1>
+<p>I&rsquo;m gonna write down my little thoughts here.<br>
+I&rsquo;ll try to update this blog everyday.</p>
+<hr>
+<p>Give you all a good photo of Scarlet.<br>
+<img src="/img/thumb-1920-818541.jpg" alt="alt picture"></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
